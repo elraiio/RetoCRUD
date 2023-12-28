@@ -1,0 +1,31 @@
+*{
+    font-family: sans-serif, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+header{
+    background-color: rgba(101, 90, 252, 0.801);
+    padding: 2rem;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    bottom: 0%;
+}
+
+.tarjeta{
+    text-align: center;
+    background-color: rgb(230, 119, 115);
+    width: 20%;
+    transform: translate(200%);
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(101, 90, 252, 0.801);
+    color: white;
+    padding: auto;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
